@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "name":"Jason Stathem",
+            "age":54,
+            "height":174,
+            "proffession":"Actor"
+        },
+        {
+            "name":"Satybaldy Arailym",
+            "age":20,
+            "height":180,
+            "proffession":"Advanced Senior UI/UX designer"
+        },
+        {
+            "name": "Serik Dana",
+            "age":19,
+            "height":180,
+            "proffession":"Senior UI/UX designer"
+        },{
+            "name":"Niyazbek Torekeldi",
+            "age":19,
+            "height":190,
+            "proffession":"Software Engineer"
+        },
+        {
+            "name": "Kenesbekov Abdurakhim",
+            "age": 19,
+            "height":180,
+            "proffession": "Senior IOS Dev"
+        },
+        {
+            "name" : "Sarvardin Arman",
+            "age":19,
+            "height":180,
+            "proffession": "Advanced Senior IOS Dev"
+        }
+    ]
+}
